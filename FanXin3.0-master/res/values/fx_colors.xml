@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fx_common_top_bar_blue">#22292c</color>
+    <color name="text_color">#576B95</color>
+    <color name="cs_bg_color">#1d1d1d</color>
+    <color name="cs_main_color">#b7864d</color>
+    <color name="ys_bg_color">#f1eef0</color>
+    <color name="ys_line_color">#e3e3e3</color>
+</resources>
